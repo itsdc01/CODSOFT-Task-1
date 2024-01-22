@@ -1,7 +1,7 @@
 # CODSOFT-Task-1
-CODSOFT-Task-1 :- Portfolio
-Creating a personal portfolio using CSS and HTML is a popular beginner web development
-project.
+Codsoft Internship Level 1 Task 1:- Portfolio
+
+Creating a personal portfolio using CSS and HTML is a popular beginner web development project.
 Header Section: Add your name or a logo at the top.
 Optionally, include a brief introduction or tagline.
 About Section: Insert an image of yourself.
